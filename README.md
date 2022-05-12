@@ -22,4 +22,6 @@
  	<a href="https://www.twitch.tv/gustavofrbs" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-fran%C3%A7a-a30417233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  
+ ![Snake animation](https://github.com/gustavofbs/gustavofbs/blob/output/github-contribution-grid-snake.svg)
 </div>
