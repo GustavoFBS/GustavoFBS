@@ -16,7 +16,7 @@
   <br>
   🔬 I'm currently studying for a Bachelor in Software Engineering
   <br>
-  💻 I love writing code and learn anythings about it
+  
   <!--<br>
   📚 I’m currently learning how to build...-->
   <br>
