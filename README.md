@@ -42,13 +42,19 @@
 
 <div> 
   <a href="https://github.com/gustavofbs/2023-1-CAPJu-Front" title="MDS_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofbs&repo=2023-1-CAPJu-Front&theme=react&border_color=61dafb&border_radius=10">
+    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofbs&repo=2023-1-CAPJu-Front&theme=react&border_color=61dafb&border_radius=10">
   </a>
+  
   <a href="https://github.com/gustavofbs/Dashboard-APC-2021" title="APC_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofbs&repo=Dashboard-APC-2021&theme=react&border_color=61dafb&border_radius=10">
+    <img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofbs&repo=Dashboard-APC-2021&theme=react&border_color=61dafb&border_radius=10">
   </a>
+  
   <a href="https://github.com/gustavofbs/2023-1-CAPJu-Services" title="MDS_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofbs&repo=2023-1-CAPJu-Services&theme=react&border_color=61dafb&border_radius=10">
+    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofbs&repo=2023-1-CAPJu-Services&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  
+  <a href="https://github.com/gustavofbs/Steam-Downgrade" title="POO_Project">
+    <img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofbs&repo=Steam-Downgrade&theme=react&border_color=61dafb&border_radius=10&cachebust=<0001>">
   </a>
 </div>
 
