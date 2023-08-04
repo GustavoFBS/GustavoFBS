@@ -50,9 +50,6 @@
   <a href="https://github.com/gustavofbs/2023-1-CAPJu-Services" title="MDS_Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofbs&repo=2023-1-CAPJu-Services&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/gustavofbs/Steam-Downgrade" title="POO_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavofbs&repo=Steam-Downgrade&theme=react&border_color=61dafb&border_radius=10">
-  </a>
 </div>
 
 <!--
