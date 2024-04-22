@@ -7,8 +7,7 @@ Hi, I'm Gustavo França, Student at the Universidade de Brasília<br><br>🔬 I'
 
 # 💻 Tech Stack:
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofbs&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Programming Nuggets
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
